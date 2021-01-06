@@ -1,0 +1,9 @@
+.Footer {
+    background-color: #343a40;
+    color: white;
+    height: 4em;
+}
+.ProductPage, .HomePage, .BasketPage{
+    margin: 1em;
+    margin-bottom: 5em;
+}
